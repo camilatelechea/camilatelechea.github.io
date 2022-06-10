@@ -1,0 +1,38 @@
+BODY{
+	background:#E6E6FA;
+    }
+TITLE{
+		COLOR:"blue"; font-size:40px; font-family:Arial;
+}
+h1{
+	font-family: verdana;
+	font-size: 40;
+	color:#DA70D6 ;
+}
+h2{
+	font-family: arial;
+	font-size: 30;
+	color:#9966CC ;
+}
+h3{
+	font-family: verdana;
+	font-size:50;
+	color:#BA55D3;
+}
+h4{
+	color:#7B68EE;
+	font-family: verdana;
+	font-size:30;
+}
+.imagen{
+	border-style:inset;
+	border-color:#9966CC;
+	border-bottom-width:10px;
+	border-radius:5%;
+}
+
+}
+
+
+
+
